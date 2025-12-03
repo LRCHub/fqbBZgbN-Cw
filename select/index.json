@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ヤングアダルト",
+  "base_artist": "マカロニえんぴつ",
+  "createdAt": "2025-12-03T14:50:01.880126Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヤングアダルト",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/01_ヤングアダルト_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヤングアダルト - young adult",
+      "artist": "macaroni enpitsu",
+      "has_synced": true,
+      "path": "select/02_ヤングアダルト_-_young_adult_macaroni_enpitsu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ヤングアダルト - youngadult",
+      "artist": "macaroni enpitsu",
+      "has_synced": true,
+      "path": "select/03_ヤングアダルト_-_youngadult_macaroni_enpitsu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "マカロニえんぴつ「ヤングアダルト」MV",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/04_マカロニえんぴつ「ヤングアダルト」MV_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ヤングアダルト - youngadult",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/05_ヤングアダルト_-_youngadult_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ヤングアダルト",
+      "artist": "マカロニえんぴつ",
+      "has_synced": true,
+      "path": "select/06_ヤングアダルト_マカロニえんぴつ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヤングアダルト",
+      "artist": "マカロニえんぴつ",
+      "has_synced": false,
+      "path": "select/pl_01_ヤングアダルト_マカロニえんぴつ.txt"
+    }
+  ]
+}
